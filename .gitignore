@@ -1,0 +1,61 @@
+# Python-specific
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Environment and dependencies
+env/
+venv/
+*.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs and database
+*.log
+*.sqlite3
+
+# Media files
+*.png
+*.jpg
+*.jpeg
+
+# PDFs and generated files
+*.pdf
+uploads/
+
+# PowerPoint generated files
+*.pptx
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# IDE-specific
+.vscode/
+.idea/
+
+# Streamlit cache
+.streamlit/
+
+base_temple_for_number_of_slides.py
+
+pdf_extracted_content
+
+final_templete_for_placement.pptx
+
+generate_presentation.py
+
+generate_presentation(x).py
+
+image_exp.py
+
+modified_presentation_from_template.pptx
+
+Neutal NEtwork.pptx
+
+presentation (1).pptx.pptx
+
+templete_of_slide.py
